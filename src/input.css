@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    background: rgb(226, 0, 255);
+    background: linear-gradient(29deg,
+            rgba(226, 0, 255, 1) 0%,
+            rgba(255, 0, 185, 1) 100%);
+    
+}
+
+.bg{
+    background-image: url(/asset/bg1.png);
+}
